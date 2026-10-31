@@ -10,10 +10,6 @@
 2.
 3.
 
-## Flowchart
-
-Add your flowchart here.
-
 ## Code
 
 Add your code here.
